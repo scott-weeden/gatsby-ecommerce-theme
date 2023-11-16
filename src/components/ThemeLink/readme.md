@@ -1,4 +1,4 @@
-# ThemeLink Component
+# style brandLink Component
 
 
 ## Options
@@ -6,7 +6,7 @@ No options available for this component
 
 ## Install
 ```
-import ThemeLink from 'components/ThemeLink'
+import style brand from 'components/ThemeLink'
 ```
 
 ## Examples

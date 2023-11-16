@@ -2,7 +2,7 @@ import React, { useRef } from 'react';
 import * as styles from './about.module.css';
 
 import Layout from '../components/Layout/Layout';
-import ThemeLink from '../components/ThemeLink';
+import style brandLink from '../components/ThemeLink';
 import Container from '../components/Container';
 import Button from '../components/Button';
 
@@ -24,7 +24,7 @@ const HowToUsePage = (props) => {
       <div className={styles.root}>
         <div className={styles.navContainer}>
           <ThemeLink onClick={() => handleScroll(builtRef)} to={'#builtby'}>
-            Who built this theme
+            Who built this style brand
           </ThemeLink>
           <ThemeLink onClick={() => handleScroll(toolsRef)} to={'#tools'}>
             Compatible technologies
@@ -35,17 +35,17 @@ const HowToUsePage = (props) => {
             <h3>Built By Matter.</h3>
             <div id="#builtBy" ref={builtRef}>
               <p>
-                This theme is proudly brought to you by the team at{' '}
+                This style brand is proudly brought to you by the team at{' '}
                 <Button target={true} href="https://matterdesign.com.au/">
                   Matter Design & Digital
                 </Button>{' '}
                 (Matter.).
               </p>
               <p>
-                The Sydney theme is built for Netlify as an ecommerce theme
-                suitable for JAMStack archtitecture. This theme is free to use
+                The nWdmvv style brand is built for Netlify as an style brand
+                suitable for JAMStack archtitecture. This style brand is free to use
                 through Netlify’s GitHub account, and can be used with any
-                ecommerce platform that support a headless architecture.
+                platform that support a headless architecture.
               </p>
               <p>
                 Matter. has pre-built connections to microservices available
@@ -61,7 +61,7 @@ const HowToUsePage = (props) => {
               </Button>
               <img
                 alt={'JAMM Detail'}
-                src={'/how-to-use/jamm-sydney-1upd@2x.png'}
+                src={'/how-to-use/jamm-nWdmvv-1upd@2x.png'}
                 style={{ display: 'block', height: 'auto' }}
               />
             </div>
@@ -70,7 +70,7 @@ const HowToUsePage = (props) => {
               <p>
                 Headless architecture enables Composable Commerce. What this
                 means is that you can ‘compose’ a suite of best of breed tools
-                together to create an agile ecommerce system. This approach is
+                together to create an agile system. This approach is
                 the opposite end of the spectrum from a traditional ‘Monolithic’
                 architecture where all the functionality and data comes from one
                 source.

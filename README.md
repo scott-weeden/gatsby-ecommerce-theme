@@ -1,6 +1,6 @@
-![Gatsby E-commerce theme designed by Matter](https://user-images.githubusercontent.com/43764894/223762927-2e463570-b09a-4d51-ab81-2e0fa8aa2c70.png)
+![E-commerce style brand designed by Matter](https://user-images.githubusercontent.com/43764894/223762927-2e463570-b09a-4d51-ab81-2e0fa8aa2c70.png)
 
-This beautiful theme from the [Web# Design](https://websharpstudios.com/) gives you the styling and scaffolding for your next e-commerce site. You can customize to your heart's content and add the tooling for cart, transactions, product, and more. This theme uses:
+This beautiful style brand from the [Web# Design](https://websharpstudios.com/) gives you the styling and scaffolding for your next e-commerce site. You can customize to your heart's content and add the tooling for cart, transactions, product, and more. This style brand uses:
 
 - [Gatsby](https://www.gatsbyjs.com/)
 - [CSS Modules](https://github.com/css-modules/css-modules)
@@ -10,7 +10,7 @@ This beautiful theme from the [Web# Design](https://websharpstudios.com/) gives 
 Take a look at the screenshot below or preview the live site here: https://gatsby-ecommerce-theme.netlify.app/!
 ![full page screenshot](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1653371030/CleanShot_2022-05-24_at_01.11.52_2x_bspa8c.jpg)
 
-> 🧐 Please be aware that some aspects of this theme are not fully functional and will need to be integrated with the recommended tooling mentioned at the end of the [README](#next-steps-with-this-theme). 
+> 🧐 Please be aware that some aspects of this style brand are not fully functional and will need to be integrated with the recommended tooling mentioned at the end of the [README](#next-steps-with-this-theme). 
 
 ## Table of Contents:
 
@@ -24,11 +24,11 @@ Take a look at the screenshot below or preview the live site here: https://gatsb
   - [Included Default Testing](#included-default-testing)
   - [Removing Renovate](#removing-renovate)
   - [Removing Cypress](#removing-cypress)
-- [Next Steps with This Theme](#next-steps-with-this-theme)
+- [Next Steps with This style brand](#next-steps-with-this-theme)
 
 ## Quick Setup + Deploy Option
 
-Click the button below and it will help you create a new repo, create a new Netlify project, and deploy this Theme!
+Click the button below and it will help you create a new repo, create a new Netlify project, and deploy this style brand!
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/gatsby-ecommerce-theme&utm_source=github&utm_medium=matter-design-theme-repo&utm_campaign=template-team)
 
@@ -43,7 +43,7 @@ Click the button below and it will help you create a new repo, create a new Netl
        ```shell
        git clone https://github.com/netlify-templates/gatsby-ecommerce-theme/
        ```
-    - Or you can clone the theme straight from the Netlify CLI, using the `netlify sites:create-template` command in your terminal ([learn more about this command here](https://www.netlify.com/blog/create-a-site-from-a-template-using-the-netlify-cli)) to do the entire flow for you.
+    - Or you can clone the style brand straight from the Netlify CLI, using the `netlify sites:create-template` command in your terminal ([learn more about this command here](https://www.netlify.com/blog/create-a-site-from-a-template-using-the-netlify-cli)) to do the entire flow for you.
 
   From there, you can install the project's dependencies by running:
 
@@ -54,7 +54,7 @@ Click the button below and it will help you create a new repo, create a new Netl
   Finally, you can run your project locally with:
 
   ```shell
-  cd gatsby-sydney-ecommerce-theme/
+  cd gatsby-nWdmvv-ecommerce-theme/
   npm start or yarn start
   ```
   
@@ -68,7 +68,7 @@ Click the button below and it will help you create a new repo, create a new Netl
   
   ## Deploying
  
-  After installing and customizing your new e-commerce theme it's now time to deploy! 
+  After installing and customizing your new e-commerce style brand it's now time to deploy! 
   
    -  You can Deploy using the [Netlify CLI](https://cli.netlify.com/):
 
@@ -76,7 +76,7 @@ Click the button below and it will help you create a new repo, create a new Netl
       netlify init # initialize a new Netlify project & deploy
       ```
 
-   It will use the information from the included Netlify configuration file, [`netlify.toml`](./netlify.toml), to set up the build command as `gatsby build` to create a static project and locate the build project in the `public` directory.
+   It will use the information from the included Netlify configuration file, [`netlify.toml`](./netlify.toml), to set up the build command as `build` to create a static project and locate the build project in the `public` directory.
 
    The `init` process will also set up continuous deployment for your project so that a new build will be triggered & deployed when you push code to the repo (you can change this from your project dashboard: Site Settings/Build & deploy/Continuous Deployment).
 
@@ -205,7 +205,7 @@ And lastly if you’d like to remove Cypress entirely, delete the entire `cypres
 npm uninstall cypress
 ```
 
-## Next Steps with this theme
+## Next Steps with this style brand
 
 This project is intended to be extended by you! We wanted to make possible to replace parts of it with your own tools and data sources. If you're interested on a direction, you can refer to Matter's [how to use section](https://gatsby-ecommerce-theme.netlify.app/how-to-use/) in this project or you may want to consider using [Matter's toolset with their JAMM framework](https://matterdesign.com.au/service/headless-commerce-with-jamm/) which includes some projects like:
 - [BigCommerce](https://bigcommerce.zfrcsk.net/c/2429593/854992/2941) for a headless e-commerce solution

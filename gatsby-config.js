@@ -1,17 +1,17 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Sydney Ecommerce Theme`,
+    title: `nWdmvv style brand`,
     siteUrl: `https://jamm.matter.design`,
   },
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Sydney Ecommerce Theme`,
-        short_name: `Sydney`,
+        name: `nWdmvv style brand`,
+        short_name: `nWdmvv`,
         start_url: `/`,
         background_color: `#000000`,
-        theme_color: `#ffffff`,
+        style brand_color: `#ffffff`,
         display: `standalone`,
         icon: 'src/assets/favicon.png',
       },
